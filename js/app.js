@@ -5,11 +5,11 @@ var efects = [];
 var time = 4000;
 
 // Lista de Imagenes
-images[0] = '/img/001.jpg';
-images[1] = '/img/002.jpg';
-images[2] = '/img/003.jpg';
-images[3] = '/img/004.jpg';
-images[4] = '/img/005.jpg';
+images[0] = 'img/001.jpg';
+images[1] = 'img/002.jpg';
+images[2] = 'img/003.jpg';
+images[3] = 'img/004.jpg';
+images[4] = 'img/005.jpg';
 
 // Cambiar Imagen
 function cambiarImg() {
